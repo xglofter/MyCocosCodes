@@ -1,0 +1,14 @@
+{
+  "map_size_x": 19,
+  "map_size_y": 19,
+  "cell_size": 16,
+  "cell_data": [
+  { "x":10, "y":7, "type":"wall" },
+  { "x":10, "y":8, "type":"wall" },
+  { "x":10, "y":9, "type":"wall" },
+  { "x":10, "y":10, "type":"wall" },
+  { "x":10, "y":11, "type":"wall" },
+  { "x":3, "y":9, "type":"start" },
+  { "x":15, "y":9, "type":"end" }
+  ]
+}
