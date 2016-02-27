@@ -7,7 +7,7 @@ use cocos2d-x3.x to show A Star algorithm.
 
 2. map edit by users.
 
-3. moving direction juse Up, Down, Right and Left.
+3. moving direction : Up, Down, Right and Left.
 
 ![image1](_images/AStarEdit1.png)
 
